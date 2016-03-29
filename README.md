@@ -4,6 +4,7 @@ Resimlerinizi istediğiniz gibi kırpma işlemi yapıp istediğiniz boyutta kay�
 #
 
 ![image](https://raw.githubusercontent.com/ugurcosar/imagecrop/master/1.png)
+---------------------------------------------------------------------------
 
 ![image](https://raw.githubusercontent.com/ugurcosar/imagecrop/master/3.png)
 
