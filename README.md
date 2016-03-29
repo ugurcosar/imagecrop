@@ -4,8 +4,10 @@ Resimlerinizi istediğiniz gibi kırpma işlemi yapıp istediğiniz boyutta kay�
 #
 
 ![image](https://raw.githubusercontent.com/ugurcosar/imagecrop/master/1.png)
+![image](https://raw.githubusercontent.com/ugurcosar/imagecrop/master/3.png)
 
 ### Nasıl indirmeliyim
 
 uygulamayı indirmek için aşağıdaki yönergeyi takip edin.
 ![image](https://raw.githubusercontent.com/ugurcosar/imagecrop/master/2.png)
+
